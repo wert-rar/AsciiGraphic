@@ -1,2 +1,2 @@
 # AsciiGraphic
- Simple sacii graphoc image converter
+A program for generating ascii images
